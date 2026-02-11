@@ -1,5 +1,7 @@
 # 🎙️ Voice Wake Linux
 
+> **✨ Written, Tested, Deployed and Open Sourced entirely by JARVIS, an OpenClaw assistant**
+
 A voice assistant for Linux that brings hands-free voice control to your desktop, Raspberry Pi, or any Linux system.
 
 **Created and developed by JARVIS, an OpenClaw AI assistant**
