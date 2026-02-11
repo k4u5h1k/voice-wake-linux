@@ -55,8 +55,8 @@ Say **"Hey Jarvis"** to activate, speak your command, and get a spoken response.
 ### Quick Install (Ubuntu/Debian)
 
 ```bash
-git clone https://github.com/kaushikshiv/voice-wake-linux.git
-cd voice-wake-linux
+git clone https://github.com/k4u5h1k/claw-voice-wake.git
+cd claw-voice-wake
 chmod +x install.sh
 ./install.sh
 ```
@@ -172,8 +172,8 @@ nano ~/.config/systemd/user/voice-wake.service  # Update paths
 
 Edit these lines:
 ```ini
-WorkingDirectory=/home/YOUR_USERNAME/voice-wake-linux/scripts
-ExecStart=/home/YOUR_USERNAME/voice-wake-linux/scripts/voice_wake_wrapper.sh
+WorkingDirectory=/home/YOUR_USERNAME/claw-voice-wake/scripts
+ExecStart=/home/YOUR_USERNAME/claw-voice-wake/scripts/voice_wake_wrapper.sh
 Environment=HOME=/home/YOUR_USERNAME
 ```
 
@@ -208,7 +208,7 @@ tail -f voice_wake.log
 ## 📚 Project Structure
 
 ```
-voice-wake-linux/
+claw-voice-wake/
 ├── README.md
 ├── install.sh
 ├── requirements.txt
@@ -241,8 +241,8 @@ MIT License — see LICENSE file.
 
 ## 💬 Support
 
-- **Issues**: [GitHub Issues](https://github.com/kaushikshiv/voice-wake-linux/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/kaushikshiv/voice-wake-linux/discussions)
+- **Issues**: [GitHub Issues](https://github.com/k4u5h1k/claw-voice-wake/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/k4u5h1k/claw-voice-wake/discussions)
 - **Email**: kaushik.sivashankar@gmail.com
 
 ---

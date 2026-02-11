@@ -91,4 +91,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-For more details about each release, see the [GitHub releases page](https://github.com/kaushikshiv/voice-wake-linux/releases).
+For more details about each release, see the [GitHub releases page](https://github.com/k4u5h1k/claw-voice-wake/releases).

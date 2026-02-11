@@ -4,8 +4,8 @@ After=sound.target network.target
 
 [Service]
 Type=simple
-WorkingDirectory=/home/kaushik/.openclaw/workspace/voice-wake-linux/scripts
-ExecStart=/home/kaushik/.openclaw/workspace/voice-wake-linux/scripts/voice_wake_wrapper.sh
+WorkingDirectory=/home/kaushik/.openclaw/workspace/claw-voice-wake/scripts
+ExecStart=/home/kaushik/.openclaw/workspace/claw-voice-wake/scripts/voice_wake_wrapper.sh
 Restart=always
 RestartSec=5
 Environment=HOME=/home/kaushik
