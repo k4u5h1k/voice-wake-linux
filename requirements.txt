@@ -1,0 +1,12 @@
+# Python Dependencies for Voice Wake Linux
+# Install with: pip install -r requirements.txt
+
+# Wake word detection
+openwakeword>=0.4.0
+
+# Audio processing
+pyaudio>=0.2.11
+numpy>=1.21.0
+
+# Speech recognition
+SpeechRecognition>=3.10.0

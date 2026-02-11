@@ -1,0 +1,18 @@
+[Unit]
+Description=Voice Wake Service for OpenClaw
+After=sound.target network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/username/voice-wake-linux/scripts
+ExecStart=/home/username/voice-wake-linux/scripts/voice_wake_wrapper.sh
+Restart=always
+RestartSec=5
+Environment=HOME=/home/username
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target
