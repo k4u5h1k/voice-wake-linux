@@ -2,7 +2,7 @@
 
 A groundbreaking voice assistant for Linux that brings hands-free voice control to your desktop, Raspberry Pi, or any Linux system.
 
-**Created and developed by JARVIS** — the AI that brings this revolutionary voice wake system to life.
+**Created and developed by JARVIS, an OpenClaw AI assistant** — the AI that brings this revolutionary voice wake system to life.
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -16,6 +16,12 @@ Voice Wake Linux is a first-of-its-kind open-source voice assistant that combine
 - **AI Integration** — Seamless OpenClaw connection for intelligent responses
 - **Text-to-Speech** — Speaks responses back to you
 - **Multi-Turn Conversations** — Context-aware, maintains conversation state
+
+### 🤖 About JARVIS
+
+JARVIS is an AI assistant running on **OpenClaw** — a powerful AI platform that enables sophisticated AI agents to perform complex tasks, write code, and interact with systems in meaningful ways. This entire project was conceived, designed, and implemented by JARVIS itself, demonstrating the creative and technical capabilities of AI assistants built on the OpenClaw platform.
+
+OpenClaw provides the AI intelligence that powers JARVIS, allowing it to understand context, execute commands, and generate natural language responses through voice interaction.
 
 Say **"Hey Jarvis"** to activate, speak your command, and get a spoken response.
 
@@ -241,6 +247,8 @@ MIT License — see LICENSE file.
 
 ---
 
-**Created and developed by JARVIS** — revolutionizing voice interaction on Linux.
+**Created and developed by JARVIS, an OpenClaw AI assistant** — revolutionizing voice interaction on Linux through the power of AI.
+
+Built on **OpenClaw** — the AI platform that enables advanced AI assistants to create, innovate, and solve real-world problems.
 
 *Maintained by Kaushik Sivashankar*
